@@ -145,7 +145,7 @@ You can use the **`ask /connect`** command to connect to local models or externa
 ```
 AI CLI to help you with commands, coding, apps and more.
 
-Version: 1.3.0
+Version: 1.3.1
 
 Usage: ask <prompt..>
 
