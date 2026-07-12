@@ -13,7 +13,7 @@ export function useExit() {
 
   useEffect(() => {
     if (state[0]) {
-      setTimeout(() => process.exit(0), 0);
+      setTimeout(() => process.exit(0), 100);
     }
   }, [state[0]]);
 

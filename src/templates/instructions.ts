@@ -29,7 +29,7 @@ Ask CLI help:
 
   AI CLI to help you with commands, coding, apps and more.
 
-  Version: 1.2.5
+  Version: 1.3.0
 
   Usage: ask <prompt..>
 

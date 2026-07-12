@@ -98,6 +98,9 @@ You can select a model using the **`ask /models`** command. This will list all t
 
 **Gemini**
 
+- Gemini 3.5 Flash
+- Gemini 3.1 Flash Lite
+- Gemini 3.1 Pro Previe
 - Gemini 3 Flash Preview
 - Gemini 3 Pro Preview
 - Gemini 2.5 Flash
@@ -106,6 +109,15 @@ You can select a model using the **`ask /models`** command. This will list all t
 
 **OpenAI**
 
+- GPT-5.6 Sol
+- GPT-5.6 Luna
+- GPT-5.6 Terra
+- GPT-5.5 Pro
+- GPT-5.5
+- GPT-5.4 Pro
+- GPT-5.4
+- GPT-5.4 mini
+- GPT-5.4 nano
 - GPT-5 Mini
 - GPT-5 Nano
 - GPT-5
@@ -115,6 +127,9 @@ You can select a model using the **`ask /models`** command. This will list all t
 
 **Anthropic**
 
+- Claude Fable 5
+- Claude Opus 4.8
+- Claude Sonnet 5
 - Claude Haiku 4.5
 - Claude Sonnet 4.5
 - Claude Opus 4.5
@@ -130,7 +145,7 @@ You can use the **`ask /connect`** command to connect to local models or externa
 ```
 AI CLI to help you with commands, coding, apps and more.
 
-Version: 1.2.5
+Version: 1.3.0
 
 Usage: ask <prompt..>
 

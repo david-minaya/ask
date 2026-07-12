@@ -3,7 +3,9 @@
   "include": ["./src/**/*", "index.d.ts"],
   "compilerOptions": {
     "jsx": "react-jsx",
+    "rootDir": "./src",
     "outDir": "./dist",
+    "tsBuildInfoFile": "./dist/.tsbuildinfo",
     "rewriteRelativeImportExtensions": true
   }
 }
