@@ -100,7 +100,7 @@ You can select a model using the **`ask /models`** command. This will list all t
 
 - Gemini 3.5 Flash
 - Gemini 3.1 Flash Lite
-- Gemini 3.1 Pro Previe
+- Gemini 3.1 Pro Preview
 - Gemini 3 Flash Preview
 - Gemini 3 Pro Preview
 - Gemini 2.5 Flash
